@@ -1,6 +1,15 @@
-###Is this a heading
+ #Is this a heading
 
 Typing Content here
 
-* bullet
-* bunch of bullet points
+- bullet
+- bunch of bullet points
+
+Numbers
+1. one
+2. Two
+
+
+
+*Italic*
+**Bold*
