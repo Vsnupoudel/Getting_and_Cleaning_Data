@@ -98,7 +98,7 @@ mean_std<-select(final_bind, grep("mean|std", names(final_bind)), act, subject)
 
 
 
-## $$$$$$$$$$ ------------START OF TASK 4 -------------- $$$$$
+## $$$$$$$$$$ ------------START OF TASK 4; Step 3 is below this -------------- $$$$$
 
 
 
