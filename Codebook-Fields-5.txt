@@ -1,0 +1,5 @@
+"x"
+"1" "subject"
+"2" "activity"
+"3" "variable_measured"
+"4" "mean_for_subject_and_activity"
